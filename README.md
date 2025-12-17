@@ -52,6 +52,14 @@ It serves three purposes simultaneously:
 
 ## Installation
 
+### NPM installation 
+
+```bash
+npm install police-of-docs
+```
+
+### Local installation 
+
 Clone the repository and install dependencies:
 
 ```bash
@@ -65,7 +73,6 @@ The CLI can be executed locally via:
 ```bash
 npx police-of-code
 ```
-
 ---
 
 ## Quick Start
